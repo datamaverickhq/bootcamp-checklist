@@ -11,18 +11,18 @@ assignees: ''
 
 ## Introduction to Data Analysis
 ### Day 1 (Monday)
-- [ ] Welcome to Analyst40. An orientation email by David Venturi. 5 minutes. Join a cohort on analyst40.com for access. [EMBED LINK]
-- [ ] Thinking of Becoming a Data Analyst? You're One Already! A Medium article by Cassie Kozyrkov. 5 minutes. Free.
-- [ ] Data Analysis in Excel. A course by Jen Bricker on DataCamp. 4 hours. Sign up for a DataCamp subscription for access to DataCamp's entire catalogue, which you'll use throughout this curriculum.
+- [ ] Welcome to Analyst40. An orientation email by David Venturi. 5 minutes. [Join a cohort on analyst40.com for access.](https://analyst40.com/)
+- [ ] [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) A Medium article by Cassie Kozyrkov. 5 minutes. Free.
+- [ ] [Data Analysis in Excel](https://datacamp.pxf.io/7mRYmY). A course by Jen Bricker on DataCamp. 4 hours. [Sign up for a DataCamp subscription for access to DataCamp's entire catalogue](https://datacamp.pxf.io/x9V1Ex), which you'll use throughout this curriculum.
 
 ### Day 2 (Tuesday)
-- [ ] Introduction to SQL. A course by Izzy Weber on DataCamp. 2 hours.
-- [ ] Chapters 1 & 2 of Intermediate SQL. A course by Jasmin Ludolf on DataCamp. 2 hours.
+- [ ] [Introduction to SQL](https://datacamp.pxf.io/Xx0JYG). A course by Izzy Weber on DataCamp. 2 hours.
+- [ ] Chapters 1 & 2 of [Intermediate SQL](https://datacamp.pxf.io/BXm40B). A course by Jasmin Ludolf on DataCamp. 2 hours.
 
 ### Day 3 (Wednesday)
-- [ ] Chapters 3 & 4 of Intermediate SQL. A course by Jasmin Ludolf on DataCamp. 2 hours.
-- [ ] Data Analysis in SQL (PostgreSQL). A DataCamp skill assessment. 10 minutes.
-- [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Analyst40 Discord community. 1 hour. Join a cohort on analyst40.com for access.
+- [ ] Chapters 3 & 4 of [Intermediate SQL](https://datacamp.pxf.io/BXm40B). A course by Jasmin Ludolf on DataCamp. 2 hours.
+- [ ] [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ). A DataCamp skill assessment. 10 minutes.
+- [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Analyst40 Discord community. 1 hour. [Join a cohort on analyst40.com for access.](https://analyst40.com/)
 
 ### Day 4 (Thursday)
 - [ ] Project: SQL Data Analysis. Your first project. Completed on DataCamp Workspace using the livestream above as a guide. 4 hours.
