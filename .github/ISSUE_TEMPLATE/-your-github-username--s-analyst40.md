@@ -32,7 +32,7 @@ assignees: ''
 ## Python Programming
 
 ### Day 5 (Friday)
-- [ ] Introduction to Data Science in Python. A course by Hillary Green-Lerman on DataCamp. 4 hours.
+- [ ] [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y). A course by Hillary Green-Lerman on DataCamp. 4 hours.
 
 ### Day 6 (Saturday)
 - [ ] Rest day
@@ -41,19 +41,19 @@ assignees: ''
 - [ ] Rest day
 
 ### Day 8 (Monday)
-- [ ] Chapter 1 of Programming for Everybody (Getting Started with Python). 4 hours. Part of a Specialization by Dr. Charles Severance on Coursera. Sign up for a Python for Everybody Specialization subscription for access to this entire course, as well as the next course on Day 12.
+- [ ] Chapter 1 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours. Part of a Specialization by Dr. Charles Severance on Coursera. [Sign up for a Python for Everybody Specialization subscription for access to this entire course, as well as the next course on Day 12](https://imp.i384100.net/python-for-everybody-davidanalyst).
 
 ### Day 9 (Tuesday)
-- [ ] Chapter 2 of Programming for Everybody (Getting Started with Python). 4 hours.
+- [ ] Chapter 2 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours.
 
 ### Day 10 (Wednesday)
-- [ ] Chapters 3 & 4 of Programming for Everybody (Getting Started with Python). 5 hours.
+- [ ] Chapters 3 & 4 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 5 hours.
 
 ### Day 11 (Thursday)
-- [ ] Chapter 5 of Programming for Everybody (Getting Started with Python). 3 hours.
+- [ ] Chapter 5 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 3 hours.
 
 ### Day 12 (Friday)
-- [ ] Chapter 6 of Python Data Structures. 4 hours.  Part of a Specialization by Dr. Charles Severance on Coursera. Continue using your Python for Everybody Specialization subscription for access to the entire course.
+- [ ] Chapter 6 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours.  Part of a Specialization by Dr. Charles Severance on Coursera. Continue using your Python for Everybody Specialization subscription for access to the entire course.
 
 ### Day 13 (Saturday)
 - [ ] Rest day
@@ -62,13 +62,13 @@ assignees: ''
 - [ ] Rest day
 
 ### Day 15 (Monday)
-- [ ] Chapter 7 of Python Data Structures. 3 hours.
+- [ ] Chapter 7 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 3 hours.
 
 ### Day 16 (Tuesday)
-- [ ] Chapter 8 of Python Data Structures. 3 hours.
+- [ ] Chapter 8 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 3 hours.
 
 ### Day 17 (Wednesday)
-- [ ] Chapter 9 & 10 of Python Data Structures. 5 hours.
+- [ ] Chapter 9 & 10 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 5 hours.
 
 ### Day 18 (Thursday)
 - [ ] Becoming a "real" data analyst. A Medium article by Cassie Kozyrkov. 7 minutes. Free.
