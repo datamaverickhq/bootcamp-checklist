@@ -124,11 +124,11 @@ assignees: ''
 ## Data Visualization & Statistics
 
 ### Day 32 (Thursday)
-- [ ] Understanding Data Visualization. A course by Richie Cotton on DataCamp. 2 hours.
-- [ ] Introduction to Data Visualization with Seaborn. A course by Erin Case on DataCamp. 4 hours.
+- [ ] [Understanding Data Visualization](https://datacamp.pxf.io/JreDkv). A course by Richie Cotton on DataCamp. 2 hours.
+- [ ] [Introduction to Data Visualization with Seaborn](https://datacamp.pxf.io/Xx0J43). A course by Erin Case on DataCamp. 4 hours.
 
 ### Day 33 (Friday)
-- [ ] Intermediate Data Visualization with Seaborn. A course by Chris Moffitt on DataCamp. 4 hours.
+- [ ] [Intermediate Data Visualization with Seaborn](https://datacamp.pxf.io/WDWVOe). A course by Chris Moffitt on DataCamp. 4 hours.
 
 ### Day 34 (Saturday)
 - [ ] Rest day
@@ -137,25 +137,25 @@ assignees: ''
 - [ ] Rest day
 
 ### Day 36 (Monday)
-- [ ] Sampling in Python. A course by James Chapman on DataCamp. 4 hours.
+- [ ] [Sampling in Python](https://datacamp.pxf.io/Ear40D). A course by James Chapman on DataCamp. 4 hours.
 
 ### Day 37 (Tuesday)
-- [ ] Hypothesis Testing in Python. A course by James Chapman on DataCamp. 4 hours.
-- [ ] Statistics for people in a hurry. A Medium article by Cassie Kozyrkov. 8 minutes. Free.
+- [ ] [Hypothesis Testing in Python](https://datacamp.pxf.io/b34nkM). A course by James Chapman on DataCamp. 4 hours.
+- [ ] [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b). A Medium article by Cassie Kozyrkov. 8 minutes. Free.
 
 ### Day 38 (Wednesday)
-- [ ] How to spot a data charlatan. A Medium article by Cassie Kozyrkov. 9 minutes. Free.
-- [ ] How to Add Value as a Data Analyst. A Medium article by Cassie Kozyrkov. 7 minutes. Free.
-- [ ] Data Visualization Theory. A DataCamp skill assessment. 10 minutes.
-- [ ] Data Visualization with Python. A DataCamp skill assessment. 10 minutes.
-- [ ] Statistics Fundamentals with Python. A DataCamp skill assessment. 10 minutes.
-- [ ] Analytic Fundamentals. A DataCamp skill assessment. 10 minutes.
+- [ ] [How to spot a data charlatan](https://towardsdatascience.com/how-to-spot-a-data-charlatan-85785c991433). A Medium article by Cassie Kozyrkov. 9 minutes. Free.
+- [ ] [How to Add Value as a Data Analyst](https://towardsdatascience.com/how-to-add-value-as-a-data-analyst-8a6ae900b82a). A Medium article by Cassie Kozyrkov. 7 minutes. Free.
+- [ ] [Data Visualization Theory](https://datacamp.pxf.io/4eO4a3). A DataCamp skill assessment. 10 minutes.
+- [ ] [Data Visualization with Python](https://datacamp.pxf.io/2rb4RA). A DataCamp skill assessment. 10 minutes.
+- [ ] [Statistics Fundamentals with Python](https://datacamp.pxf.io/NK1jG1). A DataCamp skill assessment. 10 minutes.
+- [ ] [Analytic Fundamentals](https://datacamp.pxf.io/YgEZVr). A DataCamp skill assessment. 10 minutes.
 
 ### Day 39 (Thursday)
 - [ ] Start Project: Data Visualization. Your fourth and final project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from Day 3 as a guide. 4 hours.
 
 ### Day 40 (Friday)
 - [ ] Finish Project: Data Visualization. 4 more hours.
-- [ ] How expert analysts think about time. A Medium article by Cassie Kozyrkov. 4 minutes. Free.
-- [ ] Analytical Excellence Is All about Speed. A Medium article by Cassie Kozyrkov. 6 minutes. Free.
-- [ ] 10 Differences Between Amateurs and Professional Analysts. A Medium article by Cassie Kozyrkov. 8 minutes. Free.
+- [ ] [How expert analysts think about time](https://towardsdatascience.com/how-expert-analysts-think-about-time-6ae59573fe64). A Medium article by Cassie Kozyrkov. 4 minutes. Free.
+- [ ] [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c). A Medium article by Cassie Kozyrkov. 6 minutes. Free.
+- [ ] [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d). A Medium article by Cassie Kozyrkov. 8 minutes. Free.
