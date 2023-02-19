@@ -25,8 +25,8 @@ assignees: ''
 - [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Analyst40 Discord community. 1 hour. [Join a cohort on analyst40.com for access.](https://analyst40.com/)
 
 ### Day 4 (Thursday)
-- [ ] Project: SQL Data Analysis. Your first project. Completed on DataCamp Workspace using the livestream above as a guide. 4 hours.
-- [ ] How to Create a Data Analyst Portfolio That Gets You Noticed. A PDF by David Venturi. 10 minutes. Join a cohort on analyst40.com for access.
+- [ ] Project: SQL Data Analysis. Your first project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream above as a guide. 4 hours.
+- [ ] How to Create a Data Analyst Portfolio That Gets You Noticed. A PDF by David Venturi. 10 minutes. [Join a cohort on analyst40.com for access.](https://analyst40.com/)
 - [ ] Project: Start Building Your Online Presence. Completed using the PDF above as a guide. 24 minutes.
 
 ## Python Programming
@@ -73,7 +73,7 @@ assignees: ''
 ### Day 18 (Thursday)
 - [ ] Becoming a "real" data analyst. A Medium article by Cassie Kozyrkov. 7 minutes. Free.
 Python Programming. A DataCamp skill assessment. 10 minutes.
-- [ ] Start Project: Python Programming. Your second project. Completed on DataCamp Workspace using the livestream from Day 3 as a guide. 4 hours.
+- [ ] Start Project: Python Programming. Your second project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from Day 3 as a guide. 4 hours.
 
 ### Day 19 (Friday)
 - [ ] Finish Project: Python Programming. 4 more hours.
@@ -116,7 +116,7 @@ Python Programming. A DataCamp skill assessment. 10 minutes.
 - [ ] How to form realistic expectations about data. A Medium article by Cassie Kozyrkov. 6 minutes. Free.
 - [ ] Importing & Cleaning Data with Python. A DataCamp skill assessment. 10 minutes.
 - [ ] Data Manipulation with Python. A DataCamp skill assessment. 10 minutes.
-- [ ] Start Project: Exploratory Data Analysis. Your third project. Completed on DataCamp Workspace using the livestream from Day 3 as a guide. 4 hours.
+- [ ] Start Project: Exploratory Data Analysis. Your third project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from Day 3 as a guide. 4 hours.
 
 ### Day 31 (Wednesday)
 - [ ] Finish Project: Exploratory Data Analysis. 4 more hours.
@@ -152,7 +152,7 @@ Python Programming. A DataCamp skill assessment. 10 minutes.
 - [ ] Analytic Fundamentals. A DataCamp skill assessment. 10 minutes.
 
 ### Day 39 (Thursday)
-- [ ] Start Project: Data Visualization. Your fourth and final project. Completed on DataCamp Workspace using the livestream from Day 3 as a guide. 4 hours.
+- [ ] Start Project: Data Visualization. Your fourth and final project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from Day 3 as a guide. 4 hours.
 
 ### Day 40 (Friday)
 - [ ] Finish Project: Data Visualization. 4 more hours.
