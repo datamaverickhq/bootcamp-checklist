@@ -41,7 +41,7 @@ assignees: ''
 - [ ] Rest day
 
 ### Day 8 (Monday)
-- [ ] Chapter 1 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours. Part of a Specialization by Dr. Charles Severance on Coursera. [Sign up for a Python for Everybody Specialization subscription for access to this entire course, as well as the next course on Day 12](https://imp.i384100.net/python-for-everybody-davidanalyst).
+- [ ] Chapter 1 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours. Part of a Specialization by Dr. Charles Severance on Coursera. [Sign up for a Python for Everybody Specialization subscription for access to this entire course](https://imp.i384100.net/python-for-everybody-davidanalyst), as well as the next course on Day 12.
 
 ### Day 9 (Tuesday)
 - [ ] Chapter 2 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours.
