@@ -71,8 +71,8 @@ assignees: ''
 - [ ] Chapter 9 & 10 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 5 hours.
 
 ### Day 18 (Thursday)
-- [ ] Becoming a "real" data analyst. A Medium article by Cassie Kozyrkov. 7 minutes. Free.
-Python Programming. A DataCamp skill assessment. 10 minutes.
+- [ ] [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34). A Medium article by Cassie Kozyrkov. 7 minutes. Free.
+- [ ] [Python Programming](https://datacamp.pxf.io/x9V1kx). A DataCamp skill assessment. 10 minutes.
 - [ ] Start Project: Python Programming. Your second project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from Day 3 as a guide. 4 hours.
 
 ### Day 19 (Friday)
@@ -87,19 +87,19 @@ Python Programming. A DataCamp skill assessment. 10 minutes.
 ## Exploratory Data Analysis
 
 ### Day 22 (Monday)
-- [ ] Chapters 1, 2 & 4 of Streamlined Data Ingestion with pandas. A course by Amany Mahfouz on DataCamp. 3 hours.
+- [ ] Chapters 1, 2 & 4 of [Streamlined Data Ingestion with pandas](https://datacamp.pxf.io/e4ym11). A course by Amany Mahfouz on DataCamp. 3 hours.
 
 ### Day 23 (Tuesday)
-- [ ] Web Scraping in Python. A course by Thomas Laetsch on DataCamp. 4 hours.
+- [ ] [Web Scraping in Python](https://datacamp.pxf.io/qn5Pzg). A course by Thomas Laetsch on DataCamp. 4 hours.
 
 ### Day 24 (Wednesday)
-- [ ] Data Manipulation with pandas. A course by Richie Cotton and Maggie Matsui on DataCamp. 4 hours.
+- [ ] [Data Manipulation with pandas](https://datacamp.pxf.io/DV94yb). A course by Richie Cotton and Maggie Matsui on DataCamp. 4 hours.
 
 ### Day 25 (Thursday)
-- [ ] Joining Data with pandas. A course by Aaren Stubberfield on DataCamp. 4 hours.
+- [ ] [Joining Data with pandas](https://datacamp.pxf.io/9W4KLE). A course by Aaren Stubberfield on DataCamp. 4 hours.
 
 ### Day 26 (Friday)
-- [ ] Introduction to Statistics in Python. A course by Maggie Matsui on DataCamp. 4 hours.
+- [ ] [Introduction to Statistics in Python](https://datacamp.pxf.io/kjDxOV). A course by Maggie Matsui on DataCamp. 4 hours.
 
 ### Day 27 (Saturday)
 - [ ] Rest day
@@ -108,14 +108,14 @@ Python Programming. A DataCamp skill assessment. 10 minutes.
 - [ ] Rest day
 
 ### Day 29 (Monday)
-- [ ] Exploring and Analyzing Data in Python. A course by Izzy Weber and George Boorman on DataCamp. 4 hours.
-- [ ] What's the difference between analytics and statistics? A Medium article by Cassie Kozyrkov. 6 minutes. Free.
+- [ ] [Exploring and Analyzing Data in Python](https://datacamp.pxf.io/e4ym1Q). A course by Izzy Weber and George Boorman on DataCamp. 4 hours.
+- [ ] [What's the difference between analytics and statistics?](https://towardsdatascience.com/whats-the-difference-between-analytics-and-statistics-cd35d457e17) A Medium article by Cassie Kozyrkov. 6 minutes. Free.
 
 ### Day 30 (Tuesday)
-- [ ] Shifting your mindset from amateur to professional analyst. A Medium article by Cassie Kozyrkov. 8 minutes. Free.
-- [ ] How to form realistic expectations about data. A Medium article by Cassie Kozyrkov. 6 minutes. Free.
-- [ ] Importing & Cleaning Data with Python. A DataCamp skill assessment. 10 minutes.
-- [ ] Data Manipulation with Python. A DataCamp skill assessment. 10 minutes.
+- [ ] [Shifting your mindset from amateur to professional analyst](https://towardsdatascience.com/shifting-your-mindset-from-amateur-to-professional-analyst-61383f913408). A Medium article by Cassie Kozyrkov. 8 minutes. Free.
+- [ ] [How to form realistic expectations about data](https://towardsdatascience.com/how-to-form-realistic-expectations-about-data-622e85ab62cb). A Medium article by Cassie Kozyrkov. 6 minutes. Free.
+- [ ] [Importing & Cleaning Data with Python](https://datacamp.pxf.io/kjDx4V). A DataCamp skill assessment. 10 minutes.
+- [ ] [Data Manipulation with Python](https://datacamp.pxf.io/15n4Gz). A DataCamp skill assessment. 10 minutes.
 - [ ] Start Project: Exploratory Data Analysis. Your third project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from Day 3 as a guide. 4 hours.
 
 ### Day 31 (Wednesday)
