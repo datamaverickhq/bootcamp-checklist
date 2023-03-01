@@ -1,7 +1,5 @@
 # Curriculum checklist
 
-The GitHub repository for learners in the Analyst40 cohort starting March 6, 2023.
-
 To create your curriculum checklist:
 
 - Click the *Issues* tab
