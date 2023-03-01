@@ -1,4 +1,4 @@
-# cohort-march-6-2023
+# Curriculum checklist
 
 The GitHub repository for learners in the Analyst40 cohort starting March 6, 2023.
 
