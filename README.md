@@ -12,4 +12,4 @@ To create your curriculum checklist:
 
 - Fill in the Issue title with "[YOUR GITHUB USERNAME]'s Analyst40", replacing the text in the brackets with your GitHub username. Then click the green *Submit new issue* button in the bottom-right corner to create a personal checklist containing your tasks for all 40 days of the curriculum.
 
-Whenever you complete a course/article/project, go to your issue and check it off. Note: everyone in your cohort will be able to see your progress, which is by design for group accountability.
+Whenever you complete a course/article/project, go to your issue and check it off. Note: your progress is public, which is by design for group accountability.
