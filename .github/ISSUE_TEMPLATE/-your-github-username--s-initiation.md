@@ -17,7 +17,7 @@ assignees: ''
 - [ ] [Introduction to SQL](https://datacamp.pxf.io/Xx0JYG). A course by Izzy Weber on DataCamp. 2 hours.
 - [ ] [Intermediate SQL](https://datacamp.pxf.io/BXm40B). A course by Jasmin Ludolf on DataCamp. 4 hours.
 - [ ] [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ). A DataCamp skill assessment. 10 minutes.
-- [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Analyst40 Discord community. 1 hour.
+- [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Data Maverick Discord community. 1 hour.
 - [ ] Project: SQL Data Analysis. Your first project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream above as a guide. 4 hours.
 - [ ] How to Create a Data Analyst Portfolio That Gets You Noticed. A PDF by David Venturi. 10 minutes.
 - [ ] Project: Start Building Your Online Presence. Completed using the PDF above as a guide. 20 minutes.
