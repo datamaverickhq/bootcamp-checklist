@@ -1,6 +1,6 @@
-# Curriculum checklist
+# Initiation checklist
 
-To create your curriculum checklist:
+To create your Initiation checklist:
 
 - Click the *Issues* tab
 
