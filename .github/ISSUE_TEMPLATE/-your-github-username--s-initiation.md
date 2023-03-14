@@ -19,7 +19,7 @@ assignees: ''
 - [ ] [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ). A DataCamp skill assessment. 10 minutes.
 - [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Data Maverick Discord community. 1 hour.
 - [ ] **Project: SQL Data Analysis.** Your first project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream above as a guide. 4 hours.
-- [ ] [How to Create a Data Analyst Portfolio That Gets You Noticed](https://github.com/datamaverickhq/portfolio-guide/blob/main/portfolio_guide.pdf). A PDF by David Venturi. 10 minutes.
+- [ ] [How to Create a Data Analyst Portfolio That Gets You Noticed](https://github.com/datamaverickhq/portfolio-guide). A PDF by David Venturi. 10 minutes.
 - [ ] Project: Start Building Your Online Presence. Completed using the PDF above as a guide. 20 minutes.
 
 ## Python Programming
