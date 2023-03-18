@@ -13,7 +13,6 @@ assignees: ''
 
 - [ ] Welcome to Data Maverick. An orientation email by David Venturi. 5 minutes.
 - [ ] [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) A Medium article by Cassie Kozyrkov. 5 minutes. Free.
-- [ ] [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y). A course by Hillary Green-Lerman on DataCamp. 4 hours.
 - [ ] Chapter 1 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours. Part of a Specialization by Dr. Charles Severance on Coursera. [Sign up for a Python for Everybody Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst), for access to this entire course as well as for access to the next course.
 - [ ] Chapter 2 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours.
 - [ ] Chapters 3 & 4 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 5 hours.
@@ -22,6 +21,7 @@ assignees: ''
 - [ ] Chapter 7 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 3 hours.
 - [ ] Chapter 8 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 3 hours.
 - [ ] Chapter 9 & 10 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 5 hours.
+- [ ] [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y). A course by Hillary Green-Lerman on DataCamp. 4 hours.
 - [ ] [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34). A Medium article by Cassie Kozyrkov. 7 minutes. Free.
 - [ ] [Python Programming](https://datacamp.pxf.io/x9V1kx). A DataCamp skill assessment. 10 minutes.
 - [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Data Maverick Discord community. 1 hour.
