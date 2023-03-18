@@ -9,21 +9,10 @@ assignees: ''
 
 # My Initiation
 
-## Introduction to Data Analysis
+## Python Programming
 
 - [ ] Welcome to Data Maverick. An orientation email by David Venturi. 5 minutes.
 - [ ] [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) A Medium article by Cassie Kozyrkov. 5 minutes. Free.
-- [ ] [Data Analysis in Excel](https://datacamp.pxf.io/7mRYmY). A course by Jen Bricker on DataCamp. 4 hours. [Sign up for a DataCamp subscription for access to DataCamp's entire catalogue](https://datacamp.pxf.io/x9V1Ex), which you'll use throughout this curriculum.
-- [ ] [Introduction to SQL](https://datacamp.pxf.io/Xx0JYG). A course by Izzy Weber on DataCamp. 2 hours.
-- [ ] [Intermediate SQL](https://datacamp.pxf.io/BXm40B). A course by Jasmin Ludolf on DataCamp. 4 hours.
-- [ ] [Data Analysis in SQL (PostgreSQL)](https://datacamp.pxf.io/ORVPrZ). A DataCamp skill assessment. 10 minutes.
-- [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Data Maverick Discord community. 1 hour.
-- [ ] **Project: SQL Data Analysis.** Your first project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream above as a guide. 4 hours.
-- [ ] [How to Create a Data Analyst Portfolio That Gets You Noticed](https://github.com/datamaverickhq/portfolio-guide). A PDF by David Venturi. 10 minutes.
-- [ ] Project: Start Building Your Online Presence. Completed using the PDF above as a guide. 20 minutes.
-
-## Python Programming
-
 - [ ] [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y). A course by Hillary Green-Lerman on DataCamp. 4 hours.
 - [ ] Chapter 1 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours. Part of a Specialization by Dr. Charles Severance on Coursera. [Sign up for a Python for Everybody Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst), for access to this entire course as well as for access to the next course.
 - [ ] Chapter 2 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours.
@@ -35,7 +24,10 @@ assignees: ''
 - [ ] Chapter 9 & 10 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 5 hours.
 - [ ] [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34). A Medium article by Cassie Kozyrkov. 7 minutes. Free.
 - [ ] [Python Programming](https://datacamp.pxf.io/x9V1kx). A DataCamp skill assessment. 10 minutes.
+- [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Data Maverick Discord community. 1 hour.
 - [ ] **Project: Python Programming.** Your second project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from the Introduction to Data Analysis section as a guide. 8 hours.
+- [ ] [How to Create a Data Analyst Portfolio That Gets You Noticed](https://github.com/datamaverickhq/portfolio-guide). A PDF by David Venturi. 10 minutes.
+- [ ] Project: Start Building Your Online Presence. Completed using the PDF above as a guide. 20 minutes.
 
 ## Exploratory Data Analysis
 
