@@ -58,7 +58,7 @@ assignees: ''
 - [ ] [Data Visualization with Python](https://datacamp.pxf.io/2rb4RA). A DataCamp skill assessment. 10 minutes.
 - [ ] [Statistics Fundamentals with Python](https://datacamp.pxf.io/NK1jG1). A DataCamp skill assessment. 10 minutes.
 - [ ] [Analytic Fundamentals](https://datacamp.pxf.io/YgEZVr). A DataCamp skill assessment. 10 minutes.
-- [ ] **Project: Data Visualization.** Your fourth and final project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from the Introduction to Data Analysis section as a guide. 8 hours.
+- [ ] **Project: Data Visualization & Statistics.** Your fourth and final project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from the Introduction to Data Analysis section as a guide. 8 hours.
 - [ ] [How expert analysts think about time](https://towardsdatascience.com/how-expert-analysts-think-about-time-6ae59573fe64). A Medium article by Cassie Kozyrkov. 4 minutes. Free.
 - [ ] [Analytical Excellence Is All about Speed](https://towardsdatascience.com/analytical-excellence-is-all-about-speed-6881c848c09c). A Medium article by Cassie Kozyrkov. 6 minutes. Free.
 - [ ] [10 Differences Between Amateurs and Professional Analysts](https://towardsdatascience.com/10-differences-between-amateurs-and-professional-analysts-3a1be1a06a4d). A Medium article by Cassie Kozyrkov. 8 minutes. Free.
