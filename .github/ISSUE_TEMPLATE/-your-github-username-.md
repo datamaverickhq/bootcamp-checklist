@@ -1,5 +1,5 @@
 ---
-name: "[YOUR GITHUB USERNAME]'s Data Analyst in Python"
+name: "[YOUR GITHUB USERNAME]"
 about: To keep track of your progress through the curriculum.
 title: ''
 labels: ''
