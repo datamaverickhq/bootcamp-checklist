@@ -21,7 +21,7 @@ assignees: ''
 - [ ] Chapter 8 of [Python for Everybody](https://www.py4e.com/). 3 hours.
 - [ ] Chapter 9 of [Python for Everybody](https://www.py4e.com/). 3 hours.
 - [ ] Chapter 10 & 11 of [Python for Everybody](https://www.py4e.com/). 5 hours.
-- [ ] [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y). A course by Hillary Green-Lerman on DataCamp. 4 hours.
+- [ ] [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y). A course by Hillary Green-Lerman on DataCamp. Sign up for a [DataCamp subscription](https://datacamp.pxf.io/x9V1Ex) for access to DataCamp's entire catalogue, which you'll use throughout this curriculum. 4 hours.
 - [ ] [Introduction to ChatGPT](https://datacamp.pxf.io/NkKgbN). A course by James Chapman on DataCamp. 1 hour.
 - [ ] [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34). A Medium article by Cassie Kozyrkov. 7 minutes. Free.
 - [ ] [Python Programming](https://datacamp.pxf.io/x9V1kx). A DataCamp skill assessment. 10 minutes.
