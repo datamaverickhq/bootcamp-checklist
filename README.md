@@ -1,6 +1,6 @@
-# Python Data Analyst checklist
+# Data Analyst Bootcamp checklist
 
-To create your Python Data Analyst checklist:
+To create your Data Analyst Bootcamp checklist:
 
 - Click the *Issues* tab
 
