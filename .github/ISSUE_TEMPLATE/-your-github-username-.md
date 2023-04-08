@@ -13,7 +13,7 @@ assignees: ''
 
 - [ ] Welcome to Data Maverick. An orientation email by David Venturi. 5 minutes.
 - [ ] [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) A Medium article by Cassie Kozyrkov. 5 minutes. Free.
-- [ ] Chapter 2 of [Python for Everybody](https://www.py4e.com/), then Chapter 1 after. 4 hours. A course by Dr. Charles Severance on his own website. Sign up for free with a Google account. You can also [take the course on Coursera](https://imp.i384100.net/python-for-everybody-davidanalyst) and get a Coursera certificate (paid).
+- [ ] Chapter 2 of [Python for Everybody](https://www.py4e.com/), then Chapter 1 after. A course by Dr. Charles Severance on his own website. Sign up for free with a Google account. You can also [take the course on Coursera](https://imp.i384100.net/python-for-everybody-davidanalyst) and get a Coursera certificate (paid). 4 hours.
 - [ ] Chapter 3 of [Python for Everybody](https://www.py4e.com/). 4 hours.
 - [ ] Chapters 4 & 5 of [Python for Everybody](https://www.py4e.com/). 5 hours.
 - [ ] Chapter 6 of [Python for Everybody](https://www.py4e.com/). 3 hours.
