@@ -13,14 +13,14 @@ assignees: ''
 
 - [ ] Welcome to Data Maverick. An orientation email by David Venturi. 5 minutes.
 - [ ] [Thinking of Becoming a Data Analyst? You're One Already!](https://towardsdatascience.com/thinking-of-becoming-a-data-analyst-youre-already-one-5773b63ae83b) A Medium article by Cassie Kozyrkov. 5 minutes. Free.
-- [ ] Chapter 1 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours. Part of a Specialization by Dr. Charles Severance on Coursera. [Sign up for a Python for Everybody Specialization subscription](https://imp.i384100.net/python-for-everybody-davidanalyst), for access to this entire course as well as for access to the next course. Or sign up on Dr. Chuck's website at [py4e.com](https://www.py4e.com/) to take it for free (note: you won't get a Coursera certificate this way) (note: the chapters in the course on py4e.com are all +1 vs. the Coursera version, i.e., Chapter 1 on Coursera is Chapter 2 on py4e.com).
-- [ ] Chapter 2 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours.
-- [ ] Chapters 3 & 4 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 5 hours.
-- [ ] Chapter 5 of [Programming for Everybody (Getting Started with Python)](https://imp.i384100.net/python-for-everybody-davidanalyst). 3 hours.
-- [ ] Chapter 6 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 4 hours.  Part of a Specialization by Dr. Charles Severance on Coursera. Continue using your Python for Everybody Specialization subscription for access to the entire course.
-- [ ] Chapter 7 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 3 hours.
-- [ ] Chapter 8 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 3 hours.
-- [ ] Chapter 9 & 10 of [Python Data Structures](https://imp.i384100.net/python-for-everybody-davidanalyst). 5 hours.
+- [ ] Chapter 2 of [Python for Everybody](https://www.py4e.com/), then Chapter 1 after. 4 hours. A course by Dr. Charles Severance on his own website. Sign up for free with a Google account. You can also [take the course on Coursera](https://imp.i384100.net/python-for-everybody-davidanalyst) and get a Coursera certificate (paid).
+- [ ] Chapter 3 of [Python for Everybody](https://www.py4e.com/). 4 hours.
+- [ ] Chapters 4 & 5 of [Python for Everybody](https://www.py4e.com/). 5 hours.
+- [ ] Chapter 6 of [Python for Everybody](https://www.py4e.com/). 3 hours.
+- [ ] Chapter 7 of [Python for Everybody](https://www.py4e.com/). 4 hours.
+- [ ] Chapter 8 of [Python for Everybody](https://www.py4e.com/). 3 hours.
+- [ ] Chapter 9 of [Python for Everybody](https://www.py4e.com/). 3 hours.
+- [ ] Chapter 10 & 11 of [Python for Everybody](https://www.py4e.com/). 5 hours.
 - [ ] [Introduction to Data Science in Python](https://datacamp.pxf.io/7mRY5Y). A course by Hillary Green-Lerman on DataCamp. 4 hours.
 - [ ] [Introduction to ChatGPT](https://datacamp.pxf.io/NkKgbN). A course by James Chapman on DataCamp. 1 hour.
 - [ ] [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34). A Medium article by Cassie Kozyrkov. 7 minutes. Free.
