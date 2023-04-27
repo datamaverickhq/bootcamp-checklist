@@ -25,9 +25,9 @@ assignees: ''
 - [ ] [Introduction to ChatGPT](https://datacamp.pxf.io/NkKgbN). A course by James Chapman on DataCamp. 1 hour.
 - [ ] [Becoming a "real" data analyst](https://towardsdatascience.com/becoming-a-real-data-analyst-dcaf5f48bc34). A Medium article by Cassie Kozyrkov. 7 minutes. Free.
 - [ ] [Python Programming](https://datacamp.pxf.io/x9V1kx). A DataCamp skill assessment. 10 minutes.
-- [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Data Maverick Discord community. 1 hour.
-- [ ] **Project: Python Programming.** Your second project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream above as a guide. 8 hours.
-- [ ] [How to Create a Data Analyst Portfolio That Gets You Noticed](https://github.com/datamaverickhq/portfolio-guide). A PDF by David Venturi. 10 minutes.
+- [ ] [How to Create An Engaging Python Project](https://github.com/datamaverickhq/python-project-guide/blob/main/python_project_guide.pdf). A PDF guide by David Venturi. 5 minutes.
+- [ ] **Project: Python Programming.** Your first project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream above as a guide. 8 hours.
+- [ ] [How to Create a Data Analyst Portfolio That Gets You Noticed](https://github.com/datamaverickhq/portfolio-guide). A PDF guide by David Venturi. 10 minutes.
 - [ ] Project: Start Building Your Online Presence. Completed using the PDF above as a guide. 20 minutes.
 
 ## Exploratory Data Analysis
@@ -43,7 +43,8 @@ assignees: ''
 - [ ] [How to form realistic expectations about data](https://towardsdatascience.com/how-to-form-realistic-expectations-about-data-622e85ab62cb). A Medium article by Cassie Kozyrkov. 6 minutes. Free.
 - [ ] [Importing & Cleaning Data with Python](https://datacamp.pxf.io/kjDx4V). A DataCamp skill assessment. 10 minutes.
 - [ ] [Data Manipulation with Python](https://datacamp.pxf.io/15n4Gz). A DataCamp skill assessment. 10 minutes.
-- [ ] **Project: Exploratory Data Analysis.** Your third project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from the Python Programming section as a guide. 8 hours.
+- [ ] How to Create Engaging Data Analysis Projects. A  livestream with Q&A with me (David Venturi) in the Data Maverick Discord community. 1 hour.
+- [ ] **Project: Exploratory Data Analysis.** Your second project. Completed on [DataCamp Workspace](https://datacamp.pxf.io/YgErze) using the livestream from the Python Programming section as a guide. 8 hours.
 
 ## Data Visualization & Statistics
 
