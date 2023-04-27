@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# My Initiation
+# My Data Maverick Data Analyst Bootcamp
 
 ## Python Programming
 
